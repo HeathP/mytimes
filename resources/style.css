@@ -3,7 +3,11 @@ a {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  display: inline-flex;
+
 }
 header {
   display: flex;
+  border: 1px black
+
 }
